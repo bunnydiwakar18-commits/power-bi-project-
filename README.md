@@ -62,13 +62,9 @@ The dataset includes the following fields:
 - Product Contribution (Donut Chart)
 - Interactive Slicers (Year, Region, Product, Store)
 
-### 🔹 Page 2 – Product & Store Analysis
 - Product-wise Profitability
-- Store Performance Analysis
-- Region × Product Matrix
-
-### 🔹 Page 3 – Profit & Discount Analysis
-- Discount Impact on Sales
+-- Region × Product Matrix
+  
 - Profit Margin Trend
 - Gross Sales vs Profit (Scatter Analysis)
 
